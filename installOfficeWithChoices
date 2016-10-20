@@ -1,0 +1,12 @@
+#!/bin/sh
+
+cat << 'EOF' >> /private/tmp/Office_Installer/choices.xml
+<array>
+	<string>com.microsoft.onenote.mac</string>
+    <string>com.microsoft.outlook</string>
+</array>
+EOF
+
+/usr/sbin/installer -pkg /private/tmp/Office_Installer/Microsoft_Office_2016_15.26.0_160910_Installer.pkg -applyChoiceChangesXML /private/tmp/Office_Installer/choices.xml -target /
+
+exit 0
