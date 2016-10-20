@@ -1,0 +1,3 @@
+# Example command to show the list of installer choices available (the grep filters to show the choiceIdentifiers only in the output):
+
+installer -package "/private/tmp/Office Installer.mpkg" -showChoicesXML | grep -A 1 choiceIdentifier
