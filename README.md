@@ -4,18 +4,17 @@
 
 ## Table of Contents
 
-- [Deliver Customized Apps for a Personalized User Experience @ JNUC 2016](#Deliver Customized Apps for a Personalized User Experience @ JNUC 2016)
-  - [Purpose](#purpose)
-  - [Includes](#includes)
-  - [How to contribute](#how-to-contribute)
-  - [Support](#support)
-  - [License](#license)
+- [Purpose](#purpose)
+- [Support](#support)
+- [License](#license)
   
 ## Purpose
 
 This repository is for the scripts and code snippets from my talk "Deliver Customized Apps for a Personalized User Experience" at JNUC 2016 in Minneapolis.
 
 The contents are for example purposes only.
+
+Video available here: https://www.jamf.com/resources/videos/deliver-customized-apps-for-a-personalized-user-experience/
 
 ## Support
 
